@@ -11,9 +11,14 @@
 
 ---
 
-## 🔗 Live Demo
+## 🚀 Live Demo
+[🌐 Open Streamlit App](https://vaishnavi-daggula04-resume-analyzer-bot.streamlit.app)
 
-👉 [Open Streamlit App](https://resume-analyzer-bot.streamlit.app)
+## ⚙️ Getting Started (Run Locally)
+Clone the repository:
+bash
+git clone https://github.com/vaishnavi-daggula04/resume-analyzer-bot.git
+cd resume-analyzer-bot
 
 ---
 
