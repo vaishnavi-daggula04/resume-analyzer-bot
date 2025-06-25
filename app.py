@@ -6,12 +6,10 @@ from fpdf import FPDF
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import io
-import spacy.cli
-spacy.cli.download("en_core_web_sm")
-
 
 # Load spaCy model
 nlp = spacy.load("en_core_web_sm")
+
 
 # Predefined skills
 SKILL_KEYWORDS = [
