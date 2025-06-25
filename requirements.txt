@@ -1,4 +1,6 @@
 streamlit
+fpdf
 spacy
 pdfplumber
-streamlit-tags
+wordcloud
+matplotlib
